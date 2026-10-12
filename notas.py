@@ -7,7 +7,7 @@ print("Nota minima:", min(notas))
 print("Cantidad de notas:", len(notas))
 
 for i in range(len(nombres)):
- print(f"La nota de {nombres[i]} es {notas[i]}") 
+ print(f"La nota de {nombres[i]} es {notas[i]}, y es el {round(notas[i]*100/max(notas),4)} % de la máxima nota")
 
 from statistics import median
 
