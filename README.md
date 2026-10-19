@@ -6,6 +6,6 @@ Fecha realizada : 19-10-26
 |---|---|---|
 | 1 | Díaz Pasache, Sebastián Mauricio | |
 | 2 | Benavides Pezo, Jaime Emilio | jaimemiliobenav |
-| 3 | Diestra Buelot, Valeria Guadalupe | |
+| 3 | Diestra Buelot, Valeria Guadalupe | valdiestt |
 | 4 | Huamaní Diestra, Miriam Vanessa | MVanessaHD |
 | 5 | | |
