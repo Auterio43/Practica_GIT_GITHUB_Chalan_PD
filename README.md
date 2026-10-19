@@ -5,3 +5,4 @@ Fecha realizada : 19-10-26
 - Benavides Pezo, Jaime Emilio (jaimemiliobenav)
 - Diestra Buelot, Valeria Guadalupe
 - Huamani Diestra, Miriam Vanessa
+- Bustillos Semeler, Gustavo Enrique
